@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:todo_app/auth/view/login_screen.dart';
 import 'package:todo_app/auth/widgets/navigator_tayp_auth_widget.dart';
 import 'package:todo_app/auth/widgets/text_form_field_widget.dart';
 
@@ -34,7 +33,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
-                color: Color(0xff24252CDE),
+                color: Color(0xff24252C),
               ),
             ),
             SizedBox(height: 23),
@@ -43,7 +42,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w400,
-                color: Color(0xff24252CDE),
+                color: Color(0xff24252C),
               ),
             ),
             SizedBox(height: 5),
@@ -58,7 +57,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w400,
-                color: Color(0xff24252CDE),
+                color: Color(0xff24252C),
               ),
             ),
             SizedBox(height: 5),
@@ -73,7 +72,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w400,
-                color: Color(0xff24252CDE),
+                color: Color(0xff24252C),
               ),
             ),
             SizedBox(height: 5),
@@ -90,7 +89,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w400,
-                color: Color(0xff24252CDE),
+                color: Color(0xff24252C),
               ),
             ),
             SizedBox(height: 5),

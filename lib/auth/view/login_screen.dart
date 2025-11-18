@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:todo_app/auth/view/register_screen.dart';
 import 'package:todo_app/auth/widgets/navigator_tayp_auth_widget.dart';
@@ -34,7 +33,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
-                  color: Color(0xff24252CDE),
+                 color: Color(0xff24252C), 
                 ),
               ),
               SizedBox(height: 53),
@@ -43,7 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w400,
-                  color: Color(0xff24252CDE),
+                  color: Color(0xff24252C),
                 ),
               ),
               SizedBox(height: 5),
@@ -57,7 +56,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w400,
-                  color: Color(0xff24252CDE),
+                  color: Color(0xff24252C),
                 ),
               ),
               SizedBox(height: 5),
